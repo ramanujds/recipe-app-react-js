@@ -1,6 +1,6 @@
 {
-  "homepage": "https://ramanujds.github.io/recipe-app",
-  "name": "recipe-app",
+  "homepage": "https://ramanujds.github.io/recipe-app-react-js",
+  "name": "recipe-app-react-js",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
