@@ -21,6 +21,7 @@ const appRoutes =createBrowserRouter([
     element: <App />,
     children: [
       { path: '/', element: <Body /> },
+      { path: '/recipe-app-react-js', element: <Body /> },
       {path: 'categories', element: <Categories/>},
       { path: 'category/:category', element: <MealsInCategory /> },
       { path: 'recipe/:id', element: <RecipeDetails />},
