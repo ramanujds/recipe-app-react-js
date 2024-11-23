@@ -28,8 +28,8 @@
   },
   "eslintConfig": {
     "extends": [
-      "recipe-app-react-js",
-      "recipe-app-react-js/jest"
+      "react-app",
+      "react-app/jest"
     ]
   },
   "browserslist": {
