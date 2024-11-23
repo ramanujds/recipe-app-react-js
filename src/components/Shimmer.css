@@ -1,0 +1,27 @@
+.shimmer-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 1rem;
+}
+
+
+.shimmer {
+    position: relative;
+    overflow: hidden;
+    min-width: 100px;
+    min-height: 100px;
+    background: #f6f7f8;
+}
+
+
+
+@keyframes shimmerAnimation {
+    0% {
+        left: -100%;
+    }
+    100% {
+        left: 100%;
+    }
+}
