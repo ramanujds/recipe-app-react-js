@@ -1,5 +1,5 @@
 {
-  "homepage": "https://ramanujds.github.io/recipe-app-react-js",
+  "homepage": "https://ramanujds.github.io/recipe-app-react-js/",
   "name": "recipe-app-react-js",
   "version": "0.1.0",
   "private": true,
@@ -28,8 +28,8 @@
   },
   "eslintConfig": {
     "extends": [
-      "react-app",
-      "react-app/jest"
+      "recipe-app-react-js",
+      "recipe-app-react-js/jest"
     ]
   },
   "browserslist": {
